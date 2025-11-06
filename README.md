@@ -1,6 +1,15 @@
 # Module 9 / Testing with Jest
 ## MIT xPRO Professional Certificate in Coding
-## John Sherrell
+
+This project demonstrates the use of Jest to test a small library of string utility functions. The library and test implementation are copied from my module 9 assignment in the course platform.
+
+## Setup
+
+```
+$ git clone https://github.com/jomsh0/xpro-jest
+$ cd xpro-jest
+$ npm install
+```
 
 ## Sample Output
 
